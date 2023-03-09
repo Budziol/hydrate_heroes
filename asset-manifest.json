@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hydrate_heroes/static/css/main.f55f4be6.css",
-    "main.js": "/hydrate_heroes/static/js/main.693f1226.js",
+    "main.js": "/hydrate_heroes/static/js/main.11250c93.js",
     "static/media/SofiaSans-ExtraBold.ttf": "/hydrate_heroes/static/media/SofiaSans-ExtraBold.bd9c7f47e6bd7a884b15.ttf",
     "static/media/SofiaSans-Medium.ttf": "/hydrate_heroes/static/media/SofiaSans-Medium.1624a95890ea925afb76.ttf",
     "static/media/SofiaSans-Bold.ttf": "/hydrate_heroes/static/media/SofiaSans-Bold.3b8423bedcf540b36e2e.ttf",
     "static/media/SofiaSans-Black.ttf": "/hydrate_heroes/static/media/SofiaSans-Black.08cb65805d2704720fa2.ttf",
     "index.html": "/hydrate_heroes/index.html",
     "main.f55f4be6.css.map": "/hydrate_heroes/static/css/main.f55f4be6.css.map",
-    "main.693f1226.js.map": "/hydrate_heroes/static/js/main.693f1226.js.map"
+    "main.11250c93.js.map": "/hydrate_heroes/static/js/main.11250c93.js.map"
   },
   "entrypoints": [
     "static/css/main.f55f4be6.css",
-    "static/js/main.693f1226.js"
+    "static/js/main.11250c93.js"
   ]
 }
